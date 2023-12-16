@@ -15,20 +15,6 @@
 	            <li>Salut, vous allez bien?</li>
 	            <li>Salut, tu vas bien?</li>
 	       </random>
-	       </template>
-	       
-	    <pattern>AUREVOIR</pattern>
-	    <template>
-	        <random>
-	            <li>Quoi?</li>
-	            <li>Bye bye!</li>
-	            <li>Tu t'en vas déjà?</li>
-	            <li>Salut bye ciao!</li>
-	            <li>Dégage!</li>
-	            <li>C'est ça, casse-toi!</li>
-	            <li>Ok, va te faire enculer...</li>
-	            <li>On va se revoir?</li>
-	       </random>
-	       </template>
+	    </template>
     </category>
 </aiml>
