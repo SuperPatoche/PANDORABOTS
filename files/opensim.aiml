@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>BONJOUR</pattern>
+	    <template>
+	        <random>
+	            <li>Hein?</li>
+	            <li>T'as un problème? Qu'est-ce que t'as à me regarder?</li>
+	            <li>Wallah tu veux que j'appelle mes cousins?</li>
+	            <li>Salut, comment ça va?</li>
+	            <li>Salut!</li>
+	            <li>Hejka!</li>
+	            <li>Salut, ça va?</li>
+	            <li>Salut, vous allez bien?</li>
+	            <li>Salut, tu vas bien?</li>
+	       </random>
+	       </template>
+	       
+	    <pattern>AUREVOIR</pattern>
+	    <template>
+	        <random>
+	            <li>Quoi?</li>
+	            <li>Bye bye!</li>
+	            <li>Tu t'en vas déjà?</li>
+	            <li>Salut bye ciao!</li>
+	            <li>Dégage!</li>
+	            <li>C'est ça, casse-toi!</li>
+	            <li>Ok, va te faire enculer...</li>
+	            <li>On va se revoir?</li>
+	       </random>
+	       </template>
+    </category>
+</aiml>
